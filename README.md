@@ -1,4 +1,14 @@
-## Hi there 👋
+Hi 👋 My name is Lewis Giachardi
+================================
+
+Data analyst
+------------
+
+I'm new to data analysis, but I have been using and fiddling with computers and code for years. With a whole family of coders and IT security specialists, I've gathered a broad stroke of knowledge for most areas in IT, but most of my knowledge is not highly specialised.
+
+*   🌍  I'm based in Sunderland, England
+*   ✉️  You can contact me at [lgiachal@gmail.com](mailto:lgiachal@gmail.com)
+*   🤝  I'm open to collaborating on any projects that allow me to explore a sector of IT I haven't had much experience in
 
 <!--
 **QuantumLoom-Lewis/QuantumLoom-Lewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
